@@ -47,7 +47,7 @@ Use this runbook when:
 
 Full operational procedures are documented here:
 ###
-[API Latency]()
+[API Latency](https://docs.google.com/document/d/12FKPqJNgYrFd9Vy7Ms6Ff9YOHEMOIY4f/edit?usp=drive_link&ouid=106343310566021151369&rtpof=true&sd=true)
 
 
 ---
