@@ -45,7 +45,7 @@ Use this runbook when:
 
 Full operational procedures are documented here:
 
-➡️ [Model Degradation]() 
+[Model Degradation](https://docs.google.com/document/d/1viih4k2mS5qOHWjjjpAaUzSX39xMzrx4/edit?usp=drive_link&ouid=106343310566021151369&rtpof=true&sd=true) 
 
 
 
