@@ -47,7 +47,7 @@ Use this runbook when:
 
 Full operational procedures are documented here:
 ###
-[Data Pipeline Failure]()
+[Data Pipeline Failure](https://docs.google.com/document/d/1dfEUE7qt0siR6KuYJ-K98K1KJEo5RQCz/edit?usp=drive_link&ouid=106343310566021151369&rtpof=true&sd=true)
 
 
 ## Governance Alignment
